@@ -8,7 +8,7 @@ pull requests are, of course, welcome.
 
 ## License
 
-Copyright [2015] [Fogbeam Labs, LLC.]
+Copyright 2015, Fogbeam Labs, LLC.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
